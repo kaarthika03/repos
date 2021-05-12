@@ -121,7 +121,7 @@ namespace MyApplication
                     SowBeetroot();
                 else
                     System.Console.WriteLine("|_______________  || HAPPY FARMING ||    ___________|");
-            }
+        }
             else if ((21 <= temperature && temperature >= 23) && (30 <= rainfall && rainfall <= 45))
             {
                 System.Console.WriteLine("||    You may sow BROCCOLI    ||\nMAY I SUGGEST YOU SOME TIPS...?\n" +
@@ -178,7 +178,7 @@ namespace MyApplication
                     SowMelon();
                 else
                     System.Console.WriteLine("|_______________  || HAPPY FARMING ||    ___________|");
-            }
+        }
             else if ((16 <= temperature && temperature <= 30) && (130 <= rainfall && rainfall <= 150))
             {
                 System.Console.WriteLine("||    You may sow CUCUMBER    ||\nMAY I SUGGEST YOU SOME TIPS...?\n" +
@@ -187,7 +187,7 @@ namespace MyApplication
                     SowCucumber();
                 else
                     System.Console.WriteLine("|_______________  || HAPPY FARMING ||    ___________|");
-            }
+    }
         }
     }
     public class Tips
