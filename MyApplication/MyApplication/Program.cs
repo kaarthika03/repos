@@ -245,7 +245,7 @@ namespace MyApplication
         {
             System.Console.WriteLine("\n--->   Dry winter is needed at the time of ripening.\n" +
                 "--->   Well drained light sandy loams, loams, red, yellow and black cotton soils are well suited for its cultivation.\n" +
-                "--->   The water requirement of oilseed in general is low \n" +
+                "--->   The water requirement of oilseed in general is low .\n" +
                 "--->   Sown in June and July and harvested in October and November.\n" +
                 "                  | _______________ || HAPPY FARMING || ___________ | ");
         }
@@ -268,74 +268,74 @@ namespace MyApplication
         }
         public void SowBeetroot()
         {
-            System.Console.WriteLine("\n--->   Sowing depth: 1 inch." +
-                "--->   Sowing metho: Direct method." +
-                "--->   Water daily until the leaves begin to sprout." +
-                "--->   Generally they're ready around 8 weeks after sowing, or when the veggie reaches 2.5cm (1 inch) in diameter. " +
-                "--->   Do not cut off the leaves; instead, remove them by twisting about 5cm above the crown." +
+            System.Console.WriteLine("\n--->   Sowing depth: 1 inch.\n" +
+                "--->   Sowing metho: Direct method.\n" +
+                "--->   Water daily until the leaves begin to sprout\n." +
+                "--->   Generally they're ready around 8 weeks after sowing, or when the veggie reaches 2.5cm (1 inch) in diameter. \n" +
+                "--->   Do not cut off the leaves; instead, remove them by twisting about 5cm above the crown.\n" +
                 "\n"+
                 "                  | _______________ || HAPPY FARMING || ___________ | ");
         }
         public void SowBroccoli()
         {
-            System.Console.WriteLine("\n--->   Sowing method : Trtansplant." +
-                "--->   Sowing depth : 1.5 inches." +
-                "--->   Days to maturity : 90 to 100." +
-                "--->   Suitable soil :  well-drained, moist soil." +
+            System.Console.WriteLine("\n--->   Sowing method : Trtansplant.\n" +
+                "--->   Sowing depth : 1.5 inches.\n" +
+                "--->   Days to maturity : 90 to 100.\n" +
+                "--->   Suitable soil :  well-drained, moist soil.\n" +
                 "\n"+
                 "                  | _______________ || HAPPY FARMING || ___________ | ");
         }
         public void SowPotato()
         {
-            System.Console.WriteLine("\n--->   Sowing method : Direct." +
-                "--->   Sowing depth : 4 inches." +
-                "--->   Days to maturity : 70 to 120." +
-                "--->   growing seasong :October to December." +
+            System.Console.WriteLine("\n--->   Sowing method : Direct.\n" +
+                "--->   Sowing depth : 4 inches.\n" +
+                "--->   Days to maturity : 70 to 120.\n" +
+                "--->   growing seasong :October to December.\n" +
                 "\n"+
                 "                  | _______________ || HAPPY FARMING || ___________ | ");
         }
         public void SowOnion()
         {
-            System.Console.WriteLine("\n--->   Sowing method : Transplant" +
-                "--->   Sowing depth : 0.25 inch." +
-                "--->   Days to maturity : 150 to 160" +
-                "--->   growing seasong :March to October." +
+            System.Console.WriteLine("\n--->   Sowing method : Transplant\n" +
+                "--->   Sowing depth : 0.25 inch.\n" +
+                "--->   Days to maturity : 150 to 160.\n" +
+                "--->   growing seasong :March to October.\n" +
                 "\n" +
                 "                  | _______________ || HAPPY FARMING || ___________ | ");
         }
         public void SowTurnip()
         {
-            System.Console.WriteLine("\n--->   Sowing method : Direct." +
-                "--->   Sowing depth : 0.5 inch." +
-                "--->   Days to maturity : 40 to 50." +
-                "--->   growing seasong :October to November." +
+            System.Console.WriteLine("\n--->   Sowing method : Direct.\n" +
+                "--->   Sowing depth : 0.5 inch.\n" +
+                "--->   Days to maturity : 40 to 50.\n" +
+                "--->   growing seasong :October to November.\n" +
                 "\n" +
                 "                  | _______________ || HAPPY FARMING || ___________ | ");
         }
         public void SowTomato()
         {
-            System.Console.WriteLine("\n--->   Sowing method : Transplant." +
-                "--->   Sowing depth : 0.25 inches." +
-                "--->   Days to maturity : 110 to 115." +
-                "--->   growing seasong :(January to February ) or (June to July) or (October to November)" +
+            System.Console.WriteLine("\n--->   Sowing method : Transplant.\n" +
+                "--->   Sowing depth : 0.25 inches.\n" +
+                "--->   Days to maturity : 110 to 115.\n" +
+                "--->   growing seasong :(January to February ) or (June to July) or (October to November)\n" +
                 "\n" +
                 "                  | _______________ || HAPPY FARMING || ___________ | ");
         }
         public void SowMelon()
         {
-            System.Console.WriteLine("\n--->   Sowing method : Direct." +
-                "--->   Sowing depth : 1 inch." +
-                "--->   Days to maturity : 70 to 85." +
-                "--->   growing seasong :(January to February ) or (March to June) or (October to November)" +
+            System.Console.WriteLine("\n--->   Sowing method : Direct.\n" +
+                "--->   Sowing depth : 1 inch.\n" +
+                "--->   Days to maturity : 70 to 85.\n" +
+                "--->   growing seasong :(January to February ) or (March to June) or (October to November).\n" +
                 "\n" +
                 "                  | _______________ || HAPPY FARMING || ___________ | ");
         }
         public void SowCucumber()
         {
-            System.Console.WriteLine("\n--->   Sowing method : Direct." +
-                "--->   Sowing depth : 0.5 inch." +
-                "--->   Days to maturity : 50 to 70." +
-                "--->   growing seasong :(March to June to July) or (September to October) or (December to January)" +
+            System.Console.WriteLine("\n--->   Sowing method : Direct.\n" +
+                "--->   Sowing depth : 0.5 inch.\n" +
+                "--->   Days to maturity : 50 to 70.\n" +
+                "--->   growing seasong :(March to June to July) or (September to October) or (December to January).\n" +
                 "\n" +
                 "                  | _______________ || HAPPY FARMING || ___________ | ");
         }
